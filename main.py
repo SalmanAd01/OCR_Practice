@@ -73,11 +73,11 @@ class OCR:
 
 
 IMG_PATH = 'img/test.jpeg'
-img = OCR(IMG_PATH)
-# img.show()
-# img.read_text()
-# img.make_dict()
-# print(img.get_dict())
-# img.make_csv()
-# img.make_excel()
-img.highlight_text()
+# img = OCR(IMG_PATH)
+# # img.show()
+# # img.read_text()
+# # img.make_dict()
+# # print(img.get_dict())
+# # img.make_csv()
+# # img.make_excel()
+# img.highlight_text()
